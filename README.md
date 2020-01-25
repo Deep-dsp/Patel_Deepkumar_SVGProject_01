@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SVG Icon Set Project
 
 ## CLASSCIAL MUSIC INSTRUMENTS ICON SET
@@ -37,6 +36,3 @@ Some References/observation that I looked after for this projects:
 This project is licensed under ***Fanshawe College***
 
 © Copyrights Reserved.
-=======
-# SVG Icon Project 
->>>>>>> 6599860347edca9f35276d75b47e85799e649f15
